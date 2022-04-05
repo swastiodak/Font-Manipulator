@@ -1,0 +1,19 @@
+#p1{
+    color: black;
+}
+
+header{
+    font-size: 30px;
+    color: cornsilk;
+    width: 100%;
+    box-shadow: 5px 5px 8px crimson;
+}
+
+body{
+    background-size: cover;
+    font-size: 50px;
+}
+
+.btn{
+    font-size: 50px;
+}
